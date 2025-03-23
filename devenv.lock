@@ -21,15 +21,15 @@
         "nixpkgs": "nixpkgs"
       },
       "locked": {
-        "lastModified": 1742753462,
+        "lastModified": 1742762694,
         "owner": "saramaiah",
         "repo": "ezTrack-flake",
-        "rev": "a29f7ab07b20dc3ccd5daeeceeb0a0e11e61a14d",
+        "rev": "dc4bfc47bfb1663103c0f31cef483a90f898f32c",
         "type": "github"
       },
       "original": {
         "owner": "saramaiah",
-        "ref": "main",
+        "ref": "dev",
         "repo": "ezTrack-flake",
         "type": "github"
       }
@@ -92,15 +92,15 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1742422364,
+        "lastModified": 1688392541,
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "a84ebe20c6bc2ecbcfb000a50776219f48d134cc",
+        "rev": "ea4c80b39be4c09702b0cb3b42eab59e2ba4f24b",
         "type": "github"
       },
       "original": {
         "owner": "NixOS",
-        "ref": "nixos-unstable",
+        "ref": "nixos-22.11",
         "repo": "nixpkgs",
         "type": "github"
       }

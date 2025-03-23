@@ -3,7 +3,7 @@ inputs:
   nixpkgs:
     url: github:cachix/devenv-nixpkgs/rolling
   ezTrack-flake:
-    url: github:saramaiah/ezTrack-flake/main
+    url: github:saramaiah/ezTrack-flake/dev
 
 # If you're using non-OSS software, you can set allowUnfree to true.
 # allowUnfree: true
